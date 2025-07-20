@@ -49,7 +49,7 @@ body {
 }
 
 @utility masked-img {
-    mask-image: url("/images/mask-img.png");
+    mask-image: url("public/images/mask-img.png");
     mask-repeat: no-repeat;
     mask-position: center;
     mask-size: 50%;
@@ -64,7 +64,7 @@ body {
         @apply fixed z-50 w-full;
 
         div {
-            @apply flex md:flex-row flex-col md:justify-between items-center gap-5 py-5 contaiiner mx-auto;
+            @apply flex md:flex-row flex-col md:justify-between items-center gap-5 py-5 container mx-auto;
         }
 
         p {
@@ -107,7 +107,7 @@ body {
             }
 
             p:nth-of-type(2) {
-                @apply 2xl:text-start text-center;
+                @apply font-modern-negra text-6xl text-yellow max-w-xl;
             }
 
             p:last-of-type {
@@ -122,7 +122,7 @@ body {
                 }
 
                 a {
-                    @apply font-semibold opcaity-80 2xl:text-start text-center hover:text-yellow;
+                    @apply font-semibold opacity-80 2xl:text-start text-center hover:text-yellow;
                 }
             }
         }
@@ -250,12 +250,12 @@ body {
         }
 
         .cocktail-img {
-            @apply md:w-[60vw] w-full h-[50vh] md:h-[70vh] rounded-4xl overflow-hidden absolute top -0 md:top-1/2 md:-translate-y-1/2 left-1/2 -translate-x-1/2;
+            @apply md:w-[60vw] w-full h-[50vh] md:h-[70vh] rounded-4xl overflow-hidden absolute top-0 md:top-1/2 md:-translate-y-1/2 left-1/2 -translate-x-1/2;
         }
 
         .masked-container {
             h2 {
-                @apply text-x4l md:text-x5l font-modern-negra text-center mb-10 text-white mt-32;
+                @apply text-4xl md:text-5xl font-modern-negra text-center mb-10 text-white mt-32;
             }
 
             div {
@@ -284,7 +284,7 @@ body {
         }
 
         .cocktail-tabs {
-            @apply grid md:grid-cols-4 grid-cols-2 md:gap-20 gap-10 sm:mb-32 mb-20 relative z-10 md:max-w-6xl md:max-auto;
+            @apply grid md:grid-cols-4 grid-cols-2 md:gap-20 gap-10 sm:mb-32 mb-20 relative z-10 md:max-w-6xl md:mx-auto;
 
             button {
                 @apply md:text-3xl text-xl pb-2 cursor-pointer hover:text-yellow hover:border-yellow border-b-1 transition-colors font-modern-negra;
@@ -298,7 +298,7 @@ body {
                 @apply flex items-center justify-between w-full absolute;
 
                 button {
-                    @apply text-white hover-text-yellow curosr-pointer transition-colors max-36;
+                    @apply text-white hover:text-yellow cursor-pointer transition-colors max-w-36;
 
                     span {
                         @apply text-3xl font-modern-negra leading-none hidden md:block;
@@ -317,7 +317,7 @@ body {
         }
 
         .recipe {
-            @apply flex max-md:flex-col gap-10 md:items-center just justify-between w-full lg:absolute bottom-0;
+            @apply flex max-md:flex-col gap-10 md:items-center justify-between w-full lg:absolute bottom-0;
 
             .info {
                 @apply space-y-4 lg:translate-y-20;
