@@ -40,22 +40,23 @@ const Hero = () => {
                 scrub: true,
             }
         })
-            .to('.right-leaf', { y: 200, x: 30 },  0 )
+            .to('.right-leaf', { y: 200, x: 50 },  0 )
             .to('.left-leaf', { y: -200,  x: -60 }, 0 )
 
         const startValue = isMobile ? 'top 50%' : 'center 60%'; // On mobile: start when top of the video hits 50% of viewport; on desktop: start when center of the video crosses 60% of viewport
         const endValue = isMobile ? '120% top' : 'bottom top'; // On mobile: end after top of the video 120% scroll past screen; on desktop: end when bottom of the video reaches top of viewport
 
         // Video  animation timeline
-        const tl = gsap.timeline({
+        let tl = gsap.timeline({
             scrollTrigger: {
-                trigger: '#video',
+                trigger: 'video',
                 start: startValue,
                 end: endValue,
+                delay: 1,
                 scrub: true,
                 pin: true,  //This will keep the video stuck on the screen while we are scrolling
-            }
-        })
+            },
+        });
 
         videoRef.current.onloadedmetadata = () => {
             tl.to(videoRef.current, {
