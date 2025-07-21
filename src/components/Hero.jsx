@@ -83,6 +83,7 @@ const Hero = () => {
                 />
 
                 <div className="body">
+
                     <div className="content">
                         <div className="space-y-5 hidden md:block">
                             <p>Cool. Crisp. Classic.</p>
@@ -98,6 +99,8 @@ const Hero = () => {
                                 senses.
                             </p>
                             <a href="#cocktails">View Cocktails</a>
+
+
                         </div>
                     </div>
                 </div>
