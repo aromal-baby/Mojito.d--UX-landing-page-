@@ -1,6 +1,6 @@
 # Red velvet Mojito Menu.
 
-A landing page done for a bar where they can showcase their verities of cocktails and mocktails with a stunning Ui with animations and stunning user experience.
+A landing page done for a bar, where they can showcase the varities of cocktails and mocktails with a stunning Ui with animations and stunning user experience.
 
 
 
