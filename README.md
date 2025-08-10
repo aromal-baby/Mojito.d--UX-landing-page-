@@ -23,12 +23,17 @@
 
    ![Landing Page](https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/images/Mojito%201.png)
    ![Landing Page](https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/images/Mojito%202.png)
-   ![Landing Page](https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/images/Mojito%202.png)
+   ![Landing Page](https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/images/Mojito%203.png)
    ![Landing Page](https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/images/Mojito%204.png)
    ![Landing Page](https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/images/Mojito%205.png)
    ![Landing Page](https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/images/Mojito%206.png)
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/images/Mojito%201.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/images/Mojito%202.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/images/Mojito%203.png" width="30%" />
+</p>
 
 
    
