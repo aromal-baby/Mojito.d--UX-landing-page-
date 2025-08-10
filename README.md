@@ -33,6 +33,35 @@
   <img src="https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/images/Mojito%206.png" width="30%" />
 </p>
 
+
+
+## Vide0:
+
+ [🎥 Watch Demo](https://github.com/aromal-baby/Mojito.d--UX-landing-page-/raw/main/public/videos/Mojito%20video.mp4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    
 
 
