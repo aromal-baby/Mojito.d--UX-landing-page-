@@ -21,7 +21,7 @@
 
 ## Screenshots :
 
-   ![Landing Page](public/images/Mojito 1.png)
+   ![Landing Page](./public/images/Mojito\ 1.png)
    
 
 
