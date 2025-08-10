@@ -21,7 +21,8 @@
 
 ## Screenshots :
 
-   ![Landing Page](./public/images/Mojito\ 1.png)
+   ![Landing Page](https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/images/Mojito%201.png)
+
    
 
 
