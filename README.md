@@ -8,11 +8,21 @@
      ```bash
       git clone https://github.com/aromal-baby/Mojito.d--UX-landing-page-
 
-  3. Run the program :
+  2. Install the dependencies :
+     ```bash
+     npm install
+
+  4. Run the program :
      ```bash
       npm run dev
-     
 
+  Open http://localhost:5173 in your browser to view the project
+  
+
+## Screenshots :
+
+   ![Landing Page](public/images/Mojito 1.png)
+   
 
 
 ## React + Vite
