@@ -1,9 +1,9 @@
 # Red velvet Mojito Menu.
 
-## A landing page done for a bar, where they can showcase the varities of cocktails and mocktails with a stunning Ui with animations and stunning user experience. Built with React.js used the package GSAP.js for the animations.
+ A landing page done for a bar, where they can showcase the varities of cocktails and mocktails with a stunning Ui with animations and stunning user experience. Built with React.js used the package GSAP.js for the animations.
 
 
-# Get Started!
+## Get Started!
   1. Clone the repository :
 
 
