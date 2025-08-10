@@ -5,11 +5,11 @@
 
 ## Get Started!
   1. Clone the repository :
-     `bash`
+     ```bash
       git clone https://github.com/aromal-baby/Mojito.d--UX-landing-page-
 
   3. Run the program :
-     `bash`
+     ```bash
       npm run dev
      
 
