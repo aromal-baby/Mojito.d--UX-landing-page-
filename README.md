@@ -35,10 +35,15 @@
 
 
 
-## Vide0:
+## Video:
 
  [🎥 Watch Video for the animations](https://github.com/aromal-baby/Mojito.d--UX-landing-page-/blob/main/public/videos/Mojito%20Video%20-%20Made%20with%20Clipchamp.mp4)
 
+
+## Credits
+
+This project was inspired by [Web Animations Course](https://youtu.be/AW1yfBKRMKc?si=47nhDZYOQYQw1-s-) by [JavaScript Mastery].
+All rights for the original design and tutorial belong to the creator.
 
 
 
