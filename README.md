@@ -1,11 +1,11 @@
-## Red velvet Mojito Menu.
+# Red velvet Mojito Menu.
 
 A landing page done for a bar where they can showcase their verities of cocktails and mocktails with a stunning Ui with animations and stunning user experience.
 
 
 
 
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
