@@ -37,7 +37,7 @@
 
 ## Vide0:
 
- [🎥 Watch Demo](https://github.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/videos/Mojito%20video.mp4)
+ [🎥 Watch Video for the animations](https://github.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/videos/Mojito%20Video.mp4)
 
 
 
