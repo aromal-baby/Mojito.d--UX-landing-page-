@@ -59,6 +59,17 @@ const About = () => {
                                 More than +12000 customers
                             </p>
                         </div>
+
+                        {/* Profiles replica
+                           <div className="flex-col items-center bg-white/10 rounded-full px-2 py-1 space-x-2">
+                               <div className="flex -space-x-2">
+                                   <img src="/images/profile1.png" alt="" className="w-8 h-8 rounded-full border-2 border-black"/>
+                                   <img src="/images/profile2.png" alt="" className="w-8 h-8 rounded-full border-2 border-black"/>
+                                   <img src="/images/profile3.png" alt="" className="w-8 h-8 rounded-full border-2 border-black"/>
+                                   <img src="/images/profile4.png" alt="" className="w-8 h-8 rounded-full border-2 border-black"/>
+                               </div>
+                           </div>
+                         */}
                     </div>
                 </div>
             </div>
