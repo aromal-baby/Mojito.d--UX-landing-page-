@@ -37,7 +37,7 @@
 
 ## Video:
 
- [🎥 Watch Video for the animations](https://github.com/aromal-baby/Mojito.d--UX-landing-page-/blob/main/public/videos/Mojito%20Video%20-%20Made%20with%20Clipchamp.mp4)
+ [🎥 Watch Video for the animations](https://youtu.be/rLOf-ozdCEo)
 
 
 ## Credits
